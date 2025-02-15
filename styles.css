@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.block-heading {
+      color: #3b99e0;
+      text-align: center;
+      margin: 20px 0;
+    }
+    .summary {
+      background-color: #f7fbff;
+      padding: 20px;
+      border-top: 3px solid #5ea4f3;
+      border-bottom: 1px solid #ddd;
+    }
+    .summary .btn {
+      background-color: #3b99e0;
+      color: white;
+      width: 100%;
+    }
+    .product {
+      padding: 15px;
+      border-bottom: 1px solid #ddd;
+      margin-bottom: 15px;
+    }
